@@ -20,6 +20,10 @@
 [![Estadística/ML](https://img.shields.io/badge/Estad%C3%ADstica%20/%20ML-1E90FF?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://es.wikipedia.org/wiki/Estad%C3%ADstica)
 [![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-copilot-studio)
 [![Playground OpenAI](https://img.shields.io/badge/Playground%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/playground)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![SAS Data Integration](https://img.shields.io/badge/SAS%20Data%20Integration-005691?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/es_co/software/data-management/data-integration.html)
 ---
 
 ### 🚀 Proyectos Destacados
