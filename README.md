@@ -1,6 +1,10 @@
-# Hola, soy Flavio Bevilacqua ⚡
+# Hola, soy Flavio ⚡
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador [tu especialidad, ej: full-stack] apasionado por [tu interés, ej: el código abierto y la tecnología web].
+¡Bienvenido a mi perfil de GitHub! 
+
+Soy un desarrollador BI & Analytics con una década de experiencia en Inteligencia de Negocio y Optimización Operativa. Ofrezco soluciones integrales para el crecimiento empresarial a través del **análisis de datos, la implementación de IA-Gen, la optimización operativa con tecnologías de avanzada y la automatización.**
+
+Apasionado por los **ámbitos colaborativos**, en los últimos cinco años me he dedicado al desarrollo de comunidades de aprendizaje y he ejercido como docente, capacitando a más de **8.000 alumnos** en formaciones relacionadas con la Ciencia de Datos, Estadística Avanzada e Inteligencia Artificial. Actualmente, tiendo a hacer directos en mi canal de YouTube sobre la materia.
 
 ---
 
@@ -26,17 +30,20 @@
 [![SAS Data Integration](https://img.shields.io/badge/SAS%20Data%20Integration-005691?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/es_co/software/data-management/data-integration.html)
 ---
 
-### 🚀 Proyectos Destacados
+### 📈 Buscando oportunidades
 
-* **[Nombre del Proyecto 1]**: Una breve descripción del proyecto.
-    * **Tecnologías:** [Lista de tecnologías]
-    * **Repositorio:** [Link al repositorio]
+* 📚 Mi foco actual es el **desarrollo de un marco de trabajo para el análisis de datos a gran escala**.
+* 🤝 Estoy abierto a **mentorías en Ciencia de Datos y Estadística** para estudiantes y profesionales.
+* 🌱 Me encantaría colaborar en **proyectos con impacto social** que utilicen datos para resolver problemas reales.
+* 💬 Si necesitas ayuda con **visualización de datos o estrategias de BI**, no dudes en consultarme.
 
-* **[Nombre del Proyecto 2]**: Otra breve descripción.
-    * **Tecnologías:** [Lista de tecnologías]
-    * **Demo:** [Link a la demo en vivo]
+### 🚀 Conectando y creando
 
----
+* 📚 En este momento estoy contribuyendo activamente en una **comunidad de aprendizaje de Data Science**.
+* 🗣️ Siempre me mantengo actualizado en **las últimas tendencias de IA-Generativa y modelos de lenguaje**.
+* 🤝 Me gustaría colaborar en **iniciativas de código abierto** enfocadas en proyectos de datos.
+* 🗣️ Estoy disponible para **charlas o workshops sobre cómo aprovechar las herramientas de IA** para la productividad.
+* 🤝 Mis conocimientos en **análisis de datos, BI y ML** están a tu disposición para cualquier consulta.
 
 ### 📫 Conéctate conmigo
 
