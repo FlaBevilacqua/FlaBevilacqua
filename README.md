@@ -49,6 +49,7 @@ Apasionado por los **ámbitos colaborativos**, en los últimos cinco años me he
 
 * **LinkedIn:** https://www.linkedin.com/in/flabevy
 * **Portafolio:** https://github.com/FlaBevilacqua
+* **Youtube:** https://www.youtube.com/@flabevy
 
 ---
 
